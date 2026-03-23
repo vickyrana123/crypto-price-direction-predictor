@@ -1,4 +1,4 @@
-# 🪙 Crypto Price Direction Predictor (BTC/USDT)
+# 📈 Crypto Price Direction Predictor (BTC/USDT)
 
 A machine learning pipeline that predicts Bitcoin price direction 
 (UP/DOWN) 15 minutes ahead using real-time Binance data.
