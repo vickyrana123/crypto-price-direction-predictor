@@ -12,7 +12,9 @@ A machine learning pipeline that predicts Bitcoin price direction
 - Live real-time prediction cell
 
 ## 🚀 Setup
+```bash
 pip install -r requirements.txt
+```
 
 ## ▶️ Run
 Open `crypto_prediction_optimized.ipynb` in Jupyter and run all cells.
